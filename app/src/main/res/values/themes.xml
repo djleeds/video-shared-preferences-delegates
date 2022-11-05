@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.ExampleApp" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#3B649B</item>
+        <item name="android:windowSplashScreenBackground">#5886c4</item>
+        <item name="android:windowSplashScreenAnimatedIcon">@drawable/splash_logo</item>
+        <item name="android:windowSplashScreenBrandingImage">@drawable/splash_branding</item>
+    </style>
+</resources>
